@@ -1,0 +1,109 @@
+span {
+    font-weight: bold;
+}
+
+.link {
+    max-height: 30%
+    height: 30px
+
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Avenir;
+}
+.block-parallax-1 {
+    overflow: hidden;
+    position: relative;
+}
+.block-parallax-1 .parallax-bg {
+    background-attachment: fixed;
+    background-image: url('http://i.imgur.com/BCgSqwI.jpg');
+    background-position: 0px 0px;
+    background-repeat: repeat;
+    height: 100%;
+    position: absolute;
+    width: 100%;
+    min-width: 1170px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+
+.block-parallax-1 .md-box {
+    padding: 200px 0 200px;
+    background: rgba(0, 0, 0, 0.3);
+    position: relative;
+    height: 100%;
+    text-align: center;
+
+}
+
+
+.block-parallax-2 .parallax-bg {
+	background-image: url('http://i.imgur.com/BCgSqwI.jpg');
+
+
+}
+
+
+.me {
+   margin-left: 2.5em;
+   margin-right: 3em;
+   margin-top: 3em;
+   color: #fff;
+
+}
+
+.about {
+  margin-left: 2.5em;
+  margin-right: 3em;
+}
+
+
+
+.resume {
+  color: #fff;
+}
+
+.research {
+
+    color: dimgray;
+    margin-left: 5em;
+    margin-top: 4em;
+    margin-right: 2em;
+
+
+
+
+
+}
+
+.r_pic {
+  margin-left: 4em;
+  margin-top: 2em;
+  margin-bottom: 2em;
+    margin-right: 2em;
+
+
+}
+
+
+
+.education {
+  color: #fff;
+}
+
+.link {
+  margin-bottom: 1em;
+  margin-left: 18.6em;
+  margin-right: 18.6em;
+  margin-top: 1em;
+}
+
+.email {
+  margin-left: 35.3em;
+  margin-right: 35.3em;
+}
